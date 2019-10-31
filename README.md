@@ -13,6 +13,12 @@
 * [Angular Js](https://angularjs.org/) 
 
 # Screenshots
+*Splashscreen*
+![alt text](https://raw.githubusercontent.com/gxvr/latte-os/master/Latte-Splash.PNG)
+
+*User Login*
+![alt text](https://raw.githubusercontent.com/gxvr/latte-os/master/Latte-OS.PNG)
+
 
 # Tasks - UI
 - [x] Splash screen
