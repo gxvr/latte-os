@@ -5,7 +5,7 @@ Proof of concept OS made with Electron and Angularjs living on top of Windows.
  
 # Installation
 - Clone this repo https://github.com/gxvr/latte-os
-- Install packages (must have NodeJs and NPM installed
+- Install packages (must have NodeJs and NPM installed)
     * `cd` into the repo folder (`./latte-os/src`)
     * `npm install` 
     
