@@ -1,4 +1,5 @@
 # ☕ *Latte* OS
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
  Proof of concept OS made with Electron and Angularjs living on top of Windows. 
  
 # Installation
@@ -33,3 +34,19 @@
 - [ ] Memory usage/availability
 - [ ] Check processor type
 - [ ] Access native windows file system
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://gxvr.netlify.com"><img src="https://avatars1.githubusercontent.com/u/7034586?v=4" width="100px;" alt="Geofrey (Xvr) Kivaru"/><br /><sub><b>Geofrey (Xvr) Kivaru</b></sub></a><br /><a href="https://github.com/gxvr/latte-os/commits?author=gxvr" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
