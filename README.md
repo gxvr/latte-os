@@ -14,7 +14,6 @@
 
 # Screenshots
 
-
 # Tasks - UI
 - [x] Splash screen
 - [x] User Login
