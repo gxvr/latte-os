@@ -1,0 +1,14 @@
+{
+  "name": "latte-os",
+  "version": "1.0.0",
+  "description": "Proof of concept operating system",
+  "main": "main.js",
+  "scripts": {
+   "start": "electron ."
+  },
+  "author": "Geofrey Xvr",
+  "license": "ISC",
+   "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
