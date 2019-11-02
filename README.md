@@ -1,7 +1,7 @@
 # ☕ *Latte* OS
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-Proof of concept OS made with Electron and Angularjs living on top of Windows. 
+Proof of concept OS made with Electron and Angularjs running on top of Windows OS. 
  
 # Installation
 - Clone this repo https://github.com/gxvr/latte-os
