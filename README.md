@@ -1,5 +1,8 @@
 # ☕ *Latte* OS
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+<a href="#badge">
+   <img src="https://img.shields.io/badge/made%20in-tanzania-green?style=for-the-badge" alt="made in tanzania">
+ </a>
 
 Proof of concept OS made with Electron and Angularjs running on top of Windows OS. 
  
