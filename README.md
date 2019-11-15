@@ -9,7 +9,7 @@ Proof of concept ElectronJS OS.
 # Installation
 - Clone this repo https://github.com/gxvr/latte-os
 - Install packages (must have NodeJs and NPM installed beforehand)
-    * `cd` into the repo folder (`./latte-os/src`)
+    * `cd` into the repo folder (`latte-os/src`)
     * `npm install` 
     
 # *Latte* OS coffee brewed with
