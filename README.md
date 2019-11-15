@@ -30,6 +30,7 @@ Proof of concept ElectronJS OS.
 - [ ] Apps Dock
 - [ ] File Explorer
 - [ ] OS Apps ( Browser etc.)
+- [ ] Animations (Screens Transitions etc.)
 
 # Tasks - System
 - [x] Check system time
