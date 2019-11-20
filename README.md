@@ -4,12 +4,12 @@
    <img src="https://img.shields.io/badge/made%20in-tanzania-green?style=for-the-badge" alt="made in tanzania">
  </a>
 
-Proof of concept OS made with Electron and Angularjs running on top of Windows OS. 
+Proof of concept ElectronJS OS. 
  
 # Installation
 - Clone this repo https://github.com/gxvr/latte-os
 - Install packages (must have NodeJs and NPM installed beforehand)
-    * `cd` into the repo folder (`./latte-os/src`)
+    * `cd` into the repo folder (`latte-os/src`)
     * `npm install` 
     
 # *Latte* OS coffee brewed with
@@ -30,6 +30,7 @@ Proof of concept OS made with Electron and Angularjs running on top of Windows O
 - [ ] Apps Dock
 - [ ] File Explorer
 - [ ] OS Apps ( Browser etc.)
+- [ ] Animations (Screens Transitions etc.)
 
 # Tasks - System
 - [x] Check system time
