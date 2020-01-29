@@ -7,7 +7,7 @@
 Proof of concept ElectronJS OS. 
  
 # Installation
-- Clone this repo https://github.com/gxvr/latte-os
+- Clone this repo on your machine https://github.com/gxvr/latte-os
 - Install packages (must have NodeJs and NPM installed beforehand)
     * `cd` into the repo folder (`latte-os/src`)
     * `npm install` 
