@@ -34,7 +34,7 @@ Proof of concept ElectronJS OS.
 - [ ] Animations (Screens Transitions etc.)
 
 # Tasks - System
-- [x] Check system time
+- [x] System time
 - [ ] Check battery status
 - [ ] Check WIFI availabilty
 - [ ] Memory usage/availability
