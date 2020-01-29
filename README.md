@@ -36,7 +36,7 @@ Proof of concept ElectronJS OS.
 # Tasks - System
 - [x] System time
 - [ ] Check battery status
-- [ ] Check WIFI availabilty
+- [ ] WIFI Status
 - [ ] Memory usage/availability
 - [ ] Check processor type
 - [ ] Access native windows file system
