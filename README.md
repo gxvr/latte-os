@@ -16,6 +16,7 @@ Proof of concept ElectronJS OS.
 * [Electron Js](https://electronjs.org/) 
 * [NodeJs](https://nodejs.org/en/) 
 * [Angular Js](https://angularjs.org/) 
+* HTML / CSS / Javascript
 
 # Screenshots
 ![alt text](https://raw.githubusercontent.com/gxvr/latte-os/master/Latte-Splash.PNG)
