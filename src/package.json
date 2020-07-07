@@ -9,6 +9,6 @@
   "author": "Geofrey Xvr",
   "license": "ISC",
    "dependencies": {
-    "electron": "^5.0.6"
+    "electron": "^9.1.0"
   }
 }
